@@ -1,0 +1,9 @@
+[project]
+name = "rtpmix"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.13"
+dependencies = [
+    "pyaudio>=0.2.14",
+    "rtp>=0.0.4",
+]

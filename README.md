@@ -1,2 +1,3 @@
-# rtpmix
-A simple python application to receive and mix several PCM RTP streams for playback
+# Intro
+This tool will allow you to open multiple rtp audio streams and mux them into a single output stream.
+# Usage
